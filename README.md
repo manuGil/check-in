@@ -1,2 +1,2 @@
 # workshop-checkin
-Software Carpentry workshop 04-2022
+Demo for the workshop on Version control and Collaborative Research Development.
